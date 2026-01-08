@@ -60,8 +60,6 @@ src/
 ├── Oil.cpp/h        - Oil surface simulation
 ├── Bubble.cpp/h     - Bubble particle system
 └── main.cpp         - Entry point
-
-bin/em/app/          - WebAssembly build for web deployment
 ```
 
 ## Controls
