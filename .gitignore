@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build directories
+obj/
+bin/app.app/
+*.o
+*.d
+
+# Compiled files
+*.o
+*.obj
+*.so
+*.dylib
+*.exe
+
+# IDE & Editor files
+.cache/
+.vscode/
+*.xcworkspace
+xcuserdata/
+
+# Compilation database
+compile_commands.json
+
+# Exclude resources and report directories
+resources/
+report/
+
+# WASM map files
+bin/em/app/*.wasm.map
+
+# Keep the web build output for GitHub Pages
+!bin/em/app/
+!bin/em/app/*.html
+!bin/em/app/*.js
+!bin/em/app/*.wasm
+!bin/em/app/*.css
+!bin/em/app/*.data
+!bin/em/app/.htaccess
+
+# Keep data directory placeholder
+!bin/data/
+!bin/data/.gitkeep
