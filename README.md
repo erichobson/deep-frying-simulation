@@ -27,10 +27,6 @@ changes, crust formation, and buoyancy dynamics.
 - **Density**: Linear thermal expansion ρ(T) = ρ₀ - α(T - T₀)
 - **Viscosity**: Arrhenius temperature dependence μ = A \* exp(Ea/RT)
 
-## Web Demo
-
-[Live Demo](https://erichobson.com/deep-frying-simulation)
-
 ## Building from Source
 
 ### Prerequisites
