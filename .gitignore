@@ -5,7 +5,7 @@
 
 # Build directories
 obj/
-bin/app.app/
+bin/*.app/
 *.o
 *.d
 
